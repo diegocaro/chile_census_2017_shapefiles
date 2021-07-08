@@ -7,12 +7,11 @@ Si quieres descargar el repo y utilizar los shapefiles, primero debes descomprim
 find . -name "*.gz" | xargs gunzip
 ``` 
 
+**Disclaimer**: este repo no es una fuente oficial sobre la división geopolítica de Chile.
+
 ### Fuente 
 > Cartografía Chile Censo 2017
 > 
-> Fuente: Instituto Nacional de Estadísticas, Chile
+> Instituto Nacional de Estadísticas, Chile
 > 
 > http://www.censo2017.cl/servicio-de-mapas/
-
-
-**Disclaimer**: este repo no es una fuente oficial sobre la división geopolítica de Chile.
