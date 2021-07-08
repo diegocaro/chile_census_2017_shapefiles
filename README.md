@@ -3,3 +3,8 @@
 Cartografía Chile Censo 2017
 Fuente: Instituto Nacional de Estadísticas, Chile
 http://www.censo2017.cl/servicio-de-mapas/
+
+Descomprime los archivos con el comando
+```
+find . -name "*.gz" | xargs gunzip 
+```
